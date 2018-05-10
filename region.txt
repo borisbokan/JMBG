@@ -1,0 +1,91 @@
+00|Stranci-mesana upotreba|Stranci
+01|stranci u BIH|Stranci
+02|Stranci u CG|Stranci
+03|Stranci u HR|Stranci
+04|Stranci u Makedoniji|Stranci
+05|Stranci u Sloveniji|Stranci
+06|Ne koristi se|Stranci
+07|Stranci u Uzoj Srbiji|Stranci
+08|Stranci u Vojvodini|Stranci
+09|Stranci na Kosovu i Metohiji|Stranci
+10|Banja Luka|BIH
+11|Bihac|BIH
+12|Doboj|BIH
+13|Gorazde|BIH
+14|Livno|BIH
+14|Mostar|BIH
+16|Prijedor|BIH
+17|Sarajevo|BIH
+18|Tuzla|BIH
+19|Zenica|BIH
+20|Ne koristi se|Crna Gora
+21|Podgorica|Crna Gora
+22|Bar Ulcinj|Crna Gora
+23|Budva,Kotor i Tivat|	Crna Gora
+24|Herceg Novi|	Crna Gora
+25|Cetinje|Crna Gora
+26|Niksic|Crna Gora
+27|Berane,Rozaje,Plav i Andrijevica|Crna Gora
+28|Bjelo polje, Mojkovac|Crna Gora
+29|Pljevlja, Zabljak|Crna Gora
+30|Osijek|Hrvatska
+31|Bjelovar,Virovitica,Koprivnica i Pakrac|Hrvatska
+32|Varazdin, Medjumurje|Hrvatska
+33|Zagreb|Hrvatska
+34|Karlovac|Hrvatska
+35|Lika|Hrvatska
+36|Istra,Primorje|Hrvatska
+37|Sisak, Banovina|Hrvatska
+38|Dalmacija|Hrvatska
+39|Nije u upotrebi|Hrvatska
+40|Ne koristi se|Makedonija
+41|Bitolj|Makedonija
+42|Kumanovo|Makedonija
+43|Ohrid|Makedonija
+44|Prilep|Makedonija
+45|Skoplje|Makedonija
+46|Strumica|Makedonija
+47|Tetovo|Makedonija
+48|Veles|Makedonija
+49|Stip|Makedonija
+50|Slovenija|Slovenija
+60|Privremen boravak|Privremeno
+61|Privremen boravak|Privremeno
+62|Privremen boravak|Privremeno
+63|Privremen boravak|Privremeno
+64|Privremen boravak|Privremeno
+65|Privremen boravak|Privremeno
+66|Privremen boravak|Privremeno
+67|Privremen boravak|Privremeno
+68|Privremen boravak|Privremeno
+69|Privremen boravak|Privremeno
+70|Ne koristi se|Uza Srbija
+71|Beograd|Uza Srbija
+72|Kragujevac, Jagodina|Uza Srbija
+73|Nis,Pirot,Toplica|Uza Srbija
+74|Leskovac, Vranje|Uza Srbija
+75|Zajecar, Bor	Uza|Srbija
+76|Smederevo, Pozarevac|Uza Srbija
+77|Macva, Kolubara|Uza Srbija
+78|Kraljevo, Krusevac|Uza Srbija
+79|Uzice|Uza Srbija
+80|Novi Sad|Vojvodina
+81|Sombor|Vojvodina
+82|Subotica|Vojvodina
+83|Vrbas|Vojvodina
+84|Kikinda|Vojvodina
+85|Zrenjanin|Vojvodina
+86|Pancevo|Vojvodina
+87|Vrsac|Vojvodina
+88|Ruma|Vojvodina
+89|Sremska Mitrovica|Vojvodina
+90|Ne koristi se|Kosovo
+91|Pristina|Kosovo
+92|Kosovska Mitrovica|Kosovo
+93|Pec|Kosovo
+94|Djakovica|Kosovo
+95|Prizren|Kosovo
+96|Gnjilane|Kosovo
+97|Ne postoji|Kosovo
+98|Ne postoji|Kosovo
+99|Ne postoji|Kosovo

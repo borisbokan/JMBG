@@ -1,0 +1,108 @@
+JMBG (Jedinstveni matični broj građana) i značenje svih 13 cifara
+
+Jedinstveni matični broj građana (JMBG) je identifikaciji broj dat svim novorođenim građanima SFRJ (Socijalističke Federativne Republike Jugoslavije) od 1976. godine.
+Svi građani rođeni pre 1976. godine su dobili broj u zavisnosti od regija u kojim su tada živeli. Broj je još uvek u upotrebi u novonastalim državama.
+ 
+Broj je napravljen od 13 cifara u formi „DD MM GGG RR BBB K“ (bez razmaka), gde su:
+DD – dan rođenja
+MM – mesec rođenja
+GGG – poslednje tri cifre godine rođenja
+RR – politički regija rođenja (za građane rođene pre 1976. godine politički regija gde su trenutno živeli)
+ 
+ 
+* 00-09 – stranci bez državljanstva bivše SFRJ ili njenih naslednica.
+             o 01 - stranci u BiH
+             o 02 - stranci u Crnoj Gori
+             o 03 - stranci u Hrvatskoj
+             o 04 - stranci u Makedoniji
+             o 05 - stranci u Sloveniji
+             o 07 - stranci u Srbiji (bez pokrajina)
+             o 08 - stranci u Vojvodini
+             o 09 - stranci na Kosovu i Metohiji
+ 
+* 10-19 – Bosna i Hercegovina
+             o 10 - Banja Luka
+             o 11 - Bihać
+             o 12 - Doboj
+             o 13 - Goražde
+             o 14 - Livno
+             o 15 - Mostar
+             o 16 - Prijedor
+             o 17 - Sarajevo
+             o 18 - Tuzla
+             o 19 - Zenica
+ 
+* 20-29 – Crna Gora
+             o 21 - Podgorica
+             o 26 - Nikšić
+             o 29 - Pljevlja
+ 
+* 30-39 – Hrvatska
+             o 30 - Osijek, Slavonija region
+             o 31 - Bjelovar, Virovitica, Koprivnica, Pakrac, Podravina region
+             o 32 - Varaždin, Međimurje region
+             o 33 - Zagreb
+             o 34 - Karlovac
+             o 35 - Gospić, Lika region
+             o 36 - Rijeka, Pula, Istra and Primorje region
+             o 37 - Sisak, Banovina region
+             o 38 - Split, Zadar, Dubrovnik, Dalmacija region
+             o 39 - ostalo
+ 
+* 41-49 – Makedonija
+             o 41 - Bitola
+             o 42 - Kumanovo
+             o 43 - Ohrid
+             o 44 - Prilep
+             o 45 - Skopje
+             o 46 - Strumica
+             o 47 - Tetovo
+             o 48 - Veles
+             o 49 - Štip
+ 
+* 50-59 – Slovenija (samo 50 je korišteno)
+ 
+* 60-69 – (nije korišćeno iz neobjašnjenih razloga)
+ 
+* 70-79 – Centralna Srbija
+             o 71 - Beograd region
+             o 72 - Šumadija
+             o 73 - Niš region
+             o 74 - Južna Morava
+             o 75 – Zaječar
+             o 76 – Podunavlje
+             o 77 - Podrinje i Kolubara
+             o 78 - Kraljevo region
+             o 79 - Užice region
+ 
+* 80-89 – Autonomna Pokrajina Vojvodina
+             o 80 - Novi Sad region
+             o 81 - Sombor region
+             o 82 - Subotica region
+             o 85 - Zrenjanin region
+             o 86 - Pančevo region
+             o 87 - Kikinda region
+             o 88 - Ruma region
+             o 89 - Sremska Mitrovica region
+ 
+ * 90-99 – Autonomna Pokrajina Kosovo i Metohija
+             o 91 - Priština region
+             o 92 - Kosovska Mitrovica region
+             o 93 - Peć region
+             o 94 - Đakovica region
+             o 95 - Prizren region
+             o 96 - Kosovsko Pomoravski okrug
+ 
+ 
+BBB – jedinstveni broj
+	000-499 – muški
+	500-999 – ženski
+K - kontrolna cifra
+	Kontrolna cifra se izračunava formulom gde DDMMGGGRRBBBK = ABVGDĐEŽZIJKL
+L = 11 - (( 7*(A+E) + 6*(B+Ž) + 5*(V+Z) + 4*(G+I) + 3*(D+J) + 2*(Đ+K) ) % 11)
+ 
+% je MOD ili ostatak deljenja a ne / ili znak za deljenje
+	ako je kontrolna cifra između 1 i 9, ostaje ista (L = K)
+	ako je kontrolna cifra veća od 9, postaje nula (L = 0)
+Na primer, prvo muško dete rođeno 1. januara 2100. godine u Beogradu će imaće JMBG 0101100710006
+
